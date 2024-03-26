@@ -2,7 +2,7 @@
 <h1 aling=center> Soy Adrian Jacquez, Estudiante En El Modelo Dual🎓</h1>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Lenguages y herramientas que puedo manejar</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
