@@ -1,6 +1,6 @@
 <h1 aling=center> Bievenido a mi GitHub 🖖</h1>
 <h1 aling=center> Soy Adrian Jacquez, Estudiante En El Modelo Dual🎓</h1>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estado del GitHub </b>
+## <img  aling=center src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estado del GitHub </b>
 <br>
 
 <div align="center">
