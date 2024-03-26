@@ -1,5 +1,5 @@
-<h1 aling=center> Bievenido a mi GitHub <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h1 aling=center> Soy Adrian Jacquez, Estudiante En El Modelo Dual🎓</h1>
+<h1 align="center"> Bievenido a mi GitHub <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center"> Soy Adrian Jacquez, Estudiante En El Modelo Dual🎓</h1>
 <br>
 <div id="user-content-toc">
   <ul align="center">
@@ -27,7 +27,13 @@
   </td>
 </tr>
 </table>
-[AdrianJacquez](https://github.com/AdrianJacquez)
+<p>
+  <h1>📱 Contact </h1>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</p>
+
+
 
 
 
