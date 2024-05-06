@@ -8,7 +8,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,cs,css,github,html,js,mysql,react,tailwind,astro,typescript,vite&perline=14" />
   </a>
 </p>
@@ -30,9 +30,9 @@
 <p>
   <h1>📱 Contact </h1>
 <a href="www.linkedin.com/in/
-jacquez-lerma-0a06852b7
-
-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+jacquez-lerma-0a06852b7" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </p>
 
