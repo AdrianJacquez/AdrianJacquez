@@ -29,7 +29,10 @@
 </table>
 <p>
   <h1>📱 Contact </h1>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="www.linkedin.com/in/
+jacquez-lerma-0a06852b7
+
+"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </p>
 
