@@ -29,8 +29,8 @@
 </table>
 <p>
   <h1>📱 Contact </h1>
-<a href="www.linkedin.com/in/
-jacquez-lerma-0a06852b7](https://www.linkedin.com/in/jacquez-lerma-0a06852b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Fu4NqhHPRBihqKJrPSatzg%3D%3D)](https://www.linkedin.com/in/jacquez-lerma-0a06852b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Fu4NqhHPRBihqKJrPSatzg%3D%3D)" target="_blank">
+<a href="[www.linkedin.com/in/
+jacquez-lerma-0a06852b7](https://www.linkedin.com/in/jacquez-lerma-0a06852b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Fu4NqhHPRBihqKJrPSatzg%3D%3D)](https://www.linkedin.com/in/jacquez-lerma-0a06852b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Fu4NqhHPRBihqKJrPSatzg%3D%3D)](https://www.linkedin.com/in/jacquez-lerma-0a06852b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGEltHukbRbiFpF%2FLXqTvXw%3D%3D)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
